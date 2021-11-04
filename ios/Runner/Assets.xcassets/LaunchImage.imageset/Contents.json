@@ -1,6 +1,7 @@
 {
   "images" : [
     {
+      "filename" : "100.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
@@ -13,31 +14,15 @@
       "scale" : "3x"
     },
     {
-      "filename" : "imgbochniasplash-1.png",
+      "filename" : "100-1.png",
       "idiom" : "iphone",
       "scale" : "1x"
     },
     {
-      "filename" : "imgbochnia3.png",
       "idiom" : "iphone",
-      "resizing" : {
-        "cap-insets" : {
-          "bottom" : 1729,
-          "left" : 1511,
-          "right" : 1512,
-          "top" : 1728
-        },
-        "center" : {
-          "height" : 1,
-          "mode" : "tile",
-          "width" : 1
-        },
-        "mode" : "9-part"
-      },
       "scale" : "2x"
     },
     {
-      "filename" : "1024.png",
       "idiom" : "iphone",
       "scale" : "3x"
     },
@@ -54,7 +39,6 @@
   },
   "properties" : {
     "auto-scaling" : "auto",
-    "localizable" : true,
-    "template-rendering-intent" : "original"
+    "localizable" : true
   }
 }

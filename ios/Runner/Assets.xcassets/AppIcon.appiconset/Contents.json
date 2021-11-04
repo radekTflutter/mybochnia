@@ -61,13 +61,12 @@
       "size" : "60x60"
     },
     {
-      "filename" : "180.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "60x60"
     },
     {
-      "filename" : "1024.png",
+      "filename" : "100.png",
       "idiom" : "ios-marketing",
       "scale" : "1x",
       "size" : "1024x1024"
@@ -118,13 +117,6 @@
       "filename" : "50.png",
       "idiom" : "ipad",
       "scale" : "1x",
-      "size" : "50x50",
-      "unassigned" : true
-    },
-    {
-      "filename" : "100.png",
-      "idiom" : "ipad",
-      "scale" : "2x",
       "size" : "50x50",
       "unassigned" : true
     },
